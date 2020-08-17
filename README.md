@@ -1,2 +1,2 @@
 # database
-Repository for Database exercise
+Repository for Database exercises
